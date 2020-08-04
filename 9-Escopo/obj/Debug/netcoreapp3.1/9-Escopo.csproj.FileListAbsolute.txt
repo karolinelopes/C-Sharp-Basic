@@ -1,0 +1,12 @@
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.exe
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.deps.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.runtimeconfig.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.runtimeconfig.dev.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.AssemblyInfoInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.AssemblyInfo.cs
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.genruntimeconfig.cache

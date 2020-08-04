@@ -1,0 +1,13 @@
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.exe
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.deps.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.runtimeconfig.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.genruntimeconfig.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\4-ConversoesOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesOutrosTiposNumericos.csprojAssemblyReference.cache

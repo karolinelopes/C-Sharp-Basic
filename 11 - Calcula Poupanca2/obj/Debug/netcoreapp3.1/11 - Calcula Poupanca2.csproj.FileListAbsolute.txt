@@ -1,0 +1,13 @@
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\bin\Debug\netcoreapp3.1\11 - Calcula Poupanca2.exe
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\bin\Debug\netcoreapp3.1\11 - Calcula Poupanca2.deps.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\bin\Debug\netcoreapp3.1\11 - Calcula Poupanca2.runtimeconfig.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\bin\Debug\netcoreapp3.1\11 - Calcula Poupanca2.runtimeconfig.dev.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\bin\Debug\netcoreapp3.1\11 - Calcula Poupanca2.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\bin\Debug\netcoreapp3.1\11 - Calcula Poupanca2.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.csprojAssemblyReference.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.AssemblyInfoInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.AssemblyInfo.cs
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\11 - Calcula Poupanca2\obj\Debug\netcoreapp3.1\11 - Calcula Poupanca2.genruntimeconfig.cache

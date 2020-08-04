@@ -1,0 +1,13 @@
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
